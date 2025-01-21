@@ -1,0 +1,60 @@
+CS 266:SOFTWARE ENGINEERING
+PROJECT
+Project Introduction: Retail Wizard
+Brief Description of Use Cases:
+Actors:
+1.​ Shopkeeper - The primary user managing the system, including inventory, accounts,
+and payments.
+2.​ Customer - The end-user purchasing products or interacting with payment processes.
+Main Use Cases and Descriptions:
+1. Login System
+●​ New User - It supports the registration for new users.
+●​ Existing User - It allows the users which were previously signed in, to return to the
+login page.
+●​ Verification - It ensures that the credentials provided by users are valid during login.2. Inventory Management - It refers to the systematic process of tracking, organizing, and
+controlling business's stocks. It also ensures that the right quantity of products is available at
+the right time to meet customer demands while minimizing costs and waste.
+●​ Generate Stock Reports - It provides the shopkeeper insights related to stock
+availability and performance.
+●​ Product Catalogue - Customers will directly interact with this technology for selecting
+items of their need.
+●​ Categorize Products - Subclassifies items into categories for easier management.
+●​ Manage Stock Levels and Alerts - Keeps track of product levels and triggers alerts for
+restocking.
+●​ Add Products - This option allows the shopkeeper to add new products to the inventory.
+●​ Delete Products - This option allows the shopkeeper to remove items that are no
+longer available or needed.
+●​ Update Products - This option allows the shopkeeper to modify product details such as
+price, description, or availability.
+●​ Track Purchase Order - This option allows the shopkeeper to manage and keep track
+of the orders that are supplied from the suppliers.
+3. Accounts Management
+●​ Record Transactions - It helps the shopkeeper to keep track of all the sales and
+purchases for accurate bookkeeping.
+●​ Profit & Loss Reports - It helps the shopkeeper to calculate the financial health of the
+business.
+●​ Generate Financial Reports
+○​ Includes subtypes:
+■​ Sales Reports: It will summarise the revenue which shopkeepers will
+generate after selling items.
+■​ Purchases Reports:It will provide a comprehensive breakdown of
+expenditure related to procurement activities, offering valuable insights
+into spending patterns and helping optimize purchasing decisions.
+■​ Stock Reports: It will analyze inventory data, providing valuable insights
+into stock levels, trends, and turnover, which helps manage inventory
+efficiently and optimize supply chain performance.
+4. Payment
+●​ Refund - If a customer pays more than his/her bill amount in cash then we need to
+return the extra amount back to the customer.
+●​ Cash Payment - If a customer lacks online transaction capabilities, this option allows
+them to make purchases in an alternative way.
+●​ UPI Payment - It allows digital transactions via UPI (Unified Payments Interface).
+●​ Discount - This option streamlines the process of offering promotions or special pricing,
+making transactions more efficient and appealing.●​ Tax- Calculation - The system automatically calculates applicable taxes and seamlessly
+integrates them into the total payment during checkout, ensuring accurate and
+hassle-free billing..
+●​ Print Bill - Generates a printed receipt for completed transactions.
+5. Invoice Management
+●​ Generate Invoice - Combines product, payment, and tax data into a formal invoice for
+customers as well as distributors.
+6. Logging Out - It ensures the user logs out securely after completing tasks.
